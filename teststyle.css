@@ -1,4 +1,4 @@
-/* Style the main menu */
+
 .main-menu {
     list-style: none;
     padding: 0;
@@ -9,7 +9,6 @@
     margin-right: 20px;
 }
 
-/* Style the dropdown */
 .dropdown {
     position: relative;
 }
